@@ -38,5 +38,6 @@ This repository contains **end-to-end Power BI projects**, including data modeli
 ## Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/osarumwense-aghimien-b0a17b37b/
-- **Portfolio Website:** 
+- **Portfolio Website:**
+- **Email:osarumwenseaghimien4@gmail.com** 
 - **Resume:** *(PDF link coming soon)*
