@@ -8,17 +8,14 @@ This repository contains **end-to-end Power BI projects**, including data modeli
 
 ## Core Skills
 
-- Power BI (Desktop & Service)
-- DAX (Measures, KPIs, Time Intelligence)
-- SQL / T-SQL (CTEs, Views, Stored Procedures)
-- Data Modeling (Star & Snowflake Schemas)
-- KPI & Executive Dashboard Design
-- Operational & Performance Analytics
-- Data Cleaning & Transformation
-- Row-Level Security (RLS)
-- Analytical Storytelling
-- Excel & Paginated Reporting (SSRS)
-- Git & Version Control
+BI & Visualization
+Power BI (Desktop & Service) · KPI & Executive Dashboard Design · Analytical Storytelling
+
+Data & Modeling
+DAX (Measures, KPIs, Time Intelligence) · Data Modeling (Star & Snowflake) · Data Cleaning & Transformation · Row-Level Security (RLS)
+
+Data Engineering & Tools
+SQL / T-SQL (CTEs, Views, Stored Procedures) · Excel & Paginated Reporting (SSRS) · Git & Version Control
 
 ---
 
