@@ -10,8 +10,10 @@ This repository contains **end-to-end Power BI projects**, including data modeli
 
 BI & Visualization  
      Power BI (Desktop & Service) · KPI & Executive Dashboard Design · Analytical Storytelling  
+     
 Data & Modeling  
-     DAX (Measures, KPIs, Time Intelligence) · Data Modeling (Star & Snowflake) · Data Cleaning & Transformation · Row-Level Security (RLS)  
+     DAX (Measures, KPIs, Time Intelligence) · Data Modeling (Star & Snowflake) · Data Cleaning & Transformation · Row-Level Security (RLS) 
+     
 Data Engineering & Tools  
    SQL / T-SQL (CTEs, Views, Stored Procedures) · Excel & Paginated Reporting (SSRS) · Git & Version Control
 
