@@ -9,7 +9,7 @@ This repository contains **end-to-end Power BI projects**, including data modeli
 ## Core Skills
 
 BI & Visualization
-Power BI (Desktop & Service) · KPI & Executive Dashboard Design · Analytical Storytelling
+Power BI (Desktop & Service) #· KPI & Executive Dashboard Design #· Analytical Storytelling
 
 Data & Modeling
 DAX (Measures, KPIs, Time Intelligence) · Data Modeling (Star & Snowflake) · Data Cleaning & Transformation · Row-Level Security (RLS)
