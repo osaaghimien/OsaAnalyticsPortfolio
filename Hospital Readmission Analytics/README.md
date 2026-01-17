@@ -57,9 +57,11 @@ Reduce excessive readmission costs among younger adults in high-risk states whil
 
 **Positive Insight:**  
 African American patients insured by **Aetna** exhibit a **30-day readmission rate of 6.0%**, compared to the overall system average of **10.3%**, representing a **42% relative reduction**. This suggests that payer-specific care coordination practices or benefit structures may be contributing to more effective post-discharge outcomes within this population.
+<img width="1218" height="646" alt="1 0 Positive insight1 0" src="https://github.com/user-attachments/assets/c1dd85b0-bf8c-4990-986e-01fff803d5e4" />
 
 **Negative Insight:**  
 Patients aged **20–39 in Oklahoma** demonstrate the **highest 30-day readmission rate at 34.8%**, which is **238% higher than the system average**. This group also incurs an **average cost per readmission of $25,000**, approximately **20% higher** than the typical $21,000 per readmission.
+<img width="1371" height="858" alt="1 1 Negative Insight" src="https://github.com/user-attachments/assets/e7475a89-5034-40bf-9ead-e1a95f8db13c" />
 
 **Business Implication:**  
 Reducing the Oklahoma 20–39 age group’s readmission rate to the system average would prevent approximately **24.5 avoidable readmissions per 100 patients**, translating to **$612,500 in potential annual savings**. Applying care coordination strategies similar to those observed in the African American Aetna population could increase total savings to **over $700,000**, yielding an estimated **ROI of 280%**, assuming a $250,000 intervention cost.
@@ -73,9 +75,11 @@ Reduce future readmission costs and high-risk exposure among aging populations w
 
 **Positive Insight:**  
 Patients aged **60–79 in Michigan** show a **30-day readmission rate of 8.8%**, representing an **18.8% improvement** from the prior period and remaining well below the system average of 10.3%. This indicates that existing care plans for this population are producing favorable outcomes.
+<img width="1049" height="626" alt="2 1 Positive Insight" src="https://github.com/user-attachments/assets/1d6c796a-e7cd-401a-8766-9de7d2404925" />
 
 **Negative Insight:**  
 Despite strong readmission performance, **55.6% of patients aged 60–79 in Michigan are classified as high risk**, reflecting a **1.8% increase**. This elevated concentration of high-risk patients poses a threat to sustaining current performance and may drive future cost escalation if not proactively managed.
+<img width="1133" height="545" alt="2 2 Negative Insight" src="https://github.com/user-attachments/assets/c0097797-4389-4f1c-841a-856dc27e656e" />
 
 **Business Implication:**  
 Reducing the high-risk population by just **10%** within this segment could lower projected future readmission costs by approximately **$260,000**, based on an average cost of **$26,000 per readmission per 100 patients**. With an estimated **$30,000 investment** in predictive monitoring and follow-up care, this scenario yields an estimated **ROI of 766%**.
