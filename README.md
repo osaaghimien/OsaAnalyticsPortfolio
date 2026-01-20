@@ -36,7 +36,7 @@ This repository contains **end-to-end Power BI projects**, including data modeli
 
 - 📍 Location: Atlanta, GA
 - 🔗 [LinkedIn – Osarumwense Aghimien](https://www.linkedin.com/in/osarumwense-aghimien-b0a17b37b/)
-- - 🌐 **Portfolio Website:** [View Portfolio](https://your-portfolio-link-here)
+- 🌐 [View Portfolio](https://your-portfolio-link-here)
 - 👉 [View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjU2N2JiNjUtZjI1ZS00YjgyLTk2Y2YtNDJmMjUyZGFlYWNjIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9)
 
 
