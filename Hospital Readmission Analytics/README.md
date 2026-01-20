@@ -94,7 +94,7 @@ Across the evaluated use cases, targeted intervention strategies show the potent
 Overall, the project illustrates how analytics can move beyond reporting to directly support **ROI-driven decision-making** in healthcare operations.
 
 ## Dashboard Walkthrough
-- 👉 [View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjU2N2JiNjUtZjI1ZS00YjgyLTk2Y2YtNDJmMjUyZGFlYWNjIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9)
+👉 [View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjU2N2JiNjUtZjI1ZS00YjgyLTk2Y2YtNDJmMjUyZGFlYWNjIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9)
   
 The Power BI dashboard is structured to guide users from high-level performance monitoring to detailed, action-oriented analysis.
 
