@@ -55,7 +55,7 @@ The analysis revealed that hospital readmissions are not evenly distributed acro
 **Objective:**  
 Reduce excessive readmission costs among younger adults in high-risk states while scaling effective care models observed in lower-risk populations.
 
-**Positive Insight:**  
+### 🟢 Positive Insight 
 African American patients insured by **Aetna** exhibit a **30-day readmission rate of 6.0%**, compared to the overall system average of **10.3%**, representing a **42% relative reduction**. This suggests that payer-specific care coordination practices or benefit structures may be contributing to more effective post-discharge outcomes within this population.
 <img width="1218" height="646" alt="1 0 Positive insight1 0" src="https://github.com/user-attachments/assets/c1dd85b0-bf8c-4990-986e-01fff803d5e4" />
 
