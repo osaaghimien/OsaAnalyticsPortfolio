@@ -35,8 +35,6 @@ This repository contains **end-to-end Power BI projects**, including data modeli
 ## Contact
 
 - **Location:Atlanta,GA**
-- **Tel:470-222-5161**
-- **Email:osarumwenseaghimien4@gmail.com**
 - **LinkedIn:** https://www.linkedin.com/in/osarumwense-aghimien-b0a17b37b/
 - **Portfolio Website:**
 - **Resume:** https://github.com/osaaghimien/OsaAnalyticsPortfolio/tree/main/Hospital%20Readmission%20Analytics/Resume
