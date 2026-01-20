@@ -38,4 +38,5 @@ This repository contains **end-to-end Power BI projects**, including data modeli
 - **LinkedIn:** https://www.linkedin.com/in/osarumwense-aghimien-b0a17b37b/
 - **Portfolio Website:**
 - **Resume:** https://github.com/osaaghimien/OsaAnalyticsPortfolio/tree/main/Hospital%20Readmission%20Analytics/Resume
-- <iframe title="Readmission Project_dups" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjU2N2JiNjUtZjI1ZS00YjgyLTk2Y2YtNDJmMjUyZGFlYWNjIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+🔗 **Live Power BI Dashboard:**  
+https://app.powerbi.com/view?r=eyJrIjoiZjU2N2JiNjUtZjI1ZS00YjgyLTk2Y2YtNDJmMjUyZGFlYWNjIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9
