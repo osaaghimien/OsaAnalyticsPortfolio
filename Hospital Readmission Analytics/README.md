@@ -94,6 +94,8 @@ Across the evaluated use cases, targeted intervention strategies show the potent
 Overall, the project illustrates how analytics can move beyond reporting to directly support **ROI-driven decision-making** in healthcare operations.
 
 ## Dashboard Walkthrough
+- 👉 [View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjU2N2JiNjUtZjI1ZS00YjgyLTk2Y2YtNDJmMjUyZGFlYWNjIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9)
+  
 The Power BI dashboard is structured to guide users from high-level performance monitoring to detailed, action-oriented analysis.
 
 The **top section** presents executive KPI cards summarizing total patients, 30-day readmission rate, average cost per readmission, average length of stay, and high-risk patient percentage. This view provides an immediate snapshot of overall performance and highlights whether readmissions and cost exposure are trending above or below expectations.
