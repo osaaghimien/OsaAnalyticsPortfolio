@@ -37,6 +37,8 @@ This repository contains **end-to-end Power BI projects**, including data modeli
 - 📍 Location: Atlanta, GA
 - 🔗 [LinkedIn – Osarumwense Aghimien](https://www.linkedin.com/in/osarumwense-aghimien-b0a17b37b/)
 - 🌐 [View Portfolio](https://your-portfolio-link-here)
+- 📄 **Resume:** [View My Resume (PDF)](https://github.com/osaaghimien/OsaAnalyticsPortfolio/blob/main/Hospital%20Readmission%20Analytics/Resume/Power%20BI%20Resume.pdf)
+
 
 
 
