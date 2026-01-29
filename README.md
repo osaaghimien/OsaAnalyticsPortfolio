@@ -23,10 +23,8 @@ This repository contains **end-to-end Power BI projects**, including data modeli
 
 | Project Name | Business Problem | Tools | Link |
 | --- | --- | --- | --- |
-| Late Shipment Performance Analysis | Identify drivers of late shipments and operational bottlenecks impacting delivery SLAs | Power BI, DAX, SQL | projects/late-shipment-analysis |
 | Hospital Readmission Analytics | Analyze readmission patterns to support quality improvement and care optimization | Power BI, SQL, DAX | projects/readmission-dashboard |
 | Sales & Profit Performance Dashboard | Evaluate regional sales performance, profitability, and growth trends | Power BI, SQL, Excel | projects/sales-performance |
-| Support Operations SLA Analysis | Assess response and resolution performance across support channels | Power BI, DAX, SQL | projects/support-operations |
 
 *(Each project includes business context, KPIs, data modeling approach, insights, and dashboard visuals.)*
 
