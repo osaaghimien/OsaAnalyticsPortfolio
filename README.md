@@ -1,28 +1,19 @@
-# Power BI Portfolio – Data Analytics & Business Intelligence Projects
+Power BI Portfolio — Data Analytics & BI
 
-I am a **Data Analyst & Business Intelligence Developer** specializing in building scalable analytics solutions that turn complex operational and customer data into clear, actionable insights. My work focuses on performance analysis, KPI design, and analytical storytelling that supports business and product decision-making.
+Data Analyst & Business Intelligence Developer focused on turning complex operational and customer data into clear, actionable insights through KPI-driven dashboards and analytical storytelling.
 
----
-## Core Skills
+Core Skills
 
-**BI & Visualization**  
+Power BI & Visualization: Executive dashboards, KPI design, storytelling
+Data & Modeling: DAX, star/snowflake schemas, data cleaning, RLS
+Data & Tools: SQL/T-SQL, Excel, SSRS, Git/version control
 
-     Power BI (Desktop & Service) · KPI & Executive Dashboard Design · Analytical Storytelling   
-     
-**Data & Modeling**  
-     DAX (Measures, KPIs, Time Intelligence) · Data Modeling (Star & Snowflake) · Data Cleaning & Transformation · Row-Level Security (RLS) 
-     
-**Data Engineering & Tools**  
-   SQL / T-SQL (CTEs, Views, Stored Procedures) · Excel & Paginated Reporting (SSRS) · Git & Version Control
-   
----
-## Featured Projects
-| Project Name | Business Problem | Tools | Link |
-| --- | --- | --- | --- |
-| Hospital Readmission Analytics | Analyze readmission patterns to support quality improvement and care optimization | Power BI, SQL, DAX | projects/readmission-dashboard |
-| Sales & Profit Performance Dashboard | Evaluate regional sales performance, profitability, and growth trends | Power BI, SQL, Excel | projects/sales-performance |
+Featured Projects
+Project	Focus	Tools	Link
+Hospital Readmission Analytics	Reduce readmissions & improve care outcomes	Power BI, SQL, DAX	projects/readmission-dashboard
+Sales & Profit Performance Dashboard	Analyze sales, profitability & growth trends	Power BI, SQL, Excel	projects/sales-performance
 
-*(Each project includes business context, KPIs, data modeling approach, insights, and dashboard visuals.)*
+Each project includes business context, KPIs, data model, insights, and dashboard visuals.
 ---
 ## Contact
 
