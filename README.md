@@ -8,10 +8,12 @@ Power BI & Visualization: Executive dashboards, KPI design, storytelling
 Data & Modeling: DAX, star/snowflake schemas, data cleaning, RLS
 Data & Tools: SQL/T-SQL, Excel, SSRS, Git/version control
 
-Featured Projects
-Project	Focus	Tools	Link
-Hospital Readmission Analytics	Reduce readmissions & improve care outcomes	Power BI, SQL, DAX	projects/readmission-dashboard
-Sales & Profit Performance Dashboard	Analyze sales, profitability & growth trends	Power BI, SQL, Excel	projects/sales-performance
+**Featured Projects**
+| Project                              | Focus                                        | Tools                | Link                             |
+| ------------------------------------ | -------------------------------------------- | -------------------- | -------------------------------- |
+| Hospital Readmission Analytics       | Reduce readmissions & improve care outcomes  | Power BI, SQL, DAX   | `projects/readmission-dashboard` |
+| Sales & Profit Performance Dashboard | Analyze sales, profitability & growth trends | Power BI, SQL, Excel | `projects/sales-performance`     |
+
 
 Each project includes business context, KPIs, data model, insights, and dashboard visuals.
 ---
