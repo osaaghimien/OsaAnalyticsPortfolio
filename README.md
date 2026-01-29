@@ -1,12 +1,12 @@
 **Power BI Portfolio — Data Analytics & BI**
 
-**Data Analyst & Business Intelligence Developer focused on turning complex operational and customer data into clear, actionable insights through KPI-driven dashboards and analytical storytelling.**
+Data Analyst & Business Intelligence Developer focused on turning complex operational and customer data into clear, actionable insights through KPI-driven dashboards and analytical storytelling.
 
 **Core Skills**
 
-Power BI & Visualization: Executive dashboards, KPI design, storytelling
-Data & Modeling: DAX, star/snowflake schemas, data cleaning, RLS
-Data & Tools: SQL/T-SQL, Excel, SSRS, Git/version control
+**Power BI & Visualization:** Executive dashboards, KPI design, storytelling
+**Data & Modeling:** DAX, star/snowflake schemas, data cleaning, RLS
+**Data & Tools:** SQL/T-SQL, Excel, SSRS, Git/version control
 
 **Featured Projects**
 | Project                              | Focus                                        | Tools                | Link                             |
