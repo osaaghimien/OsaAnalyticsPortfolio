@@ -1,6 +1,7 @@
 # Power BI Portfolio – Data Analytics & Business Intelligence Projects
 
 I am a **Data Analyst & Business Intelligence Developer** specializing in building scalable analytics solutions that turn complex operational and customer data into clear, actionable insights. My work focuses on performance analysis, KPI design, and analytical storytelling that supports business and product decision-making.
+
 ---
 ## Core Skills
 
