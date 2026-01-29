@@ -5,9 +5,11 @@ I am a **Data Analyst & Business Intelligence Developer** specializing in buildi
 ## Core Skills
 
 **BI & Visualization**  
+
      Power BI (Desktop & Service) · KPI & Executive Dashboard Design · Analytical Storytelling   
 **Data & Modeling**  
      DAX (Measures, KPIs, Time Intelligence) · Data Modeling (Star & Snowflake) · Data Cleaning & Transformation · Row-Level Security (RLS) 
+     
 **Data Engineering & Tools**  
    SQL / T-SQL (CTEs, Views, Stored Procedures) · Excel & Paginated Reporting (SSRS) · Git & Version Control
 ---
