@@ -11,7 +11,8 @@ Data Analyst & Business Intelligence Developer focused on turning complex operat
 **Featured Projects**
 | Project                              | Focus                                        | Tools                | Link                             |
 | ------------------------------------ | -------------------------------------------- | -------------------- | -------------------------------- |
-| Hospital Readmission Analytics       | Reduce readmissions & improve care outcomes  | Power BI, SQL, DAX   | `projects/readmission-dashboard` |
+| Hospital Readmission Analytics       | Reduce readmissions & improve care outcomes  | Power BI, SQL, DAX   | [Hospital Readmission Analytics](projects/readmission-dashboard)
+ |
 | Sales & Profit Performance Dashboard | Analyze sales, profitability & growth trends | Power BI, SQL, Excel | `projects/sales-performance`     |
 
 
