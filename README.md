@@ -9,11 +9,12 @@ Data Analyst & Business Intelligence Developer focused on turning complex operat
 **Data & Tools:** SQL/T-SQL, Excel, SSRS, Git/version control
 
 **Featured Projects**
-| Project                              | Focus                                        | Tools                | Link                             |
-| ------------------------------------ | -------------------------------------------- | -------------------- | -------------------------------- |
-| Hospital Readmission Analytics       | Reduce readmissions & improve care outcomes  | Power BI, SQL, DAX   | [Hospital Readmission Analytics](projects/readmission-dashboard)
- |
-| Sales & Profit Performance Dashboard | Analyze sales, profitability & growth trends | Power BI, SQL, Excel | `projects/sales-performance`     |
+
+| Project                              | Focus                                        | Tools                | Link |
+|--------------------------------------|----------------------------------------------|----------------------|------|
+| Hospital Readmission Analytics       | Reduce readmissions & improve care outcomes  | Power BI, SQL, DAX   | [Hospital Readmission Analytics](projects/readmission-dashboard) |
+| Sales & Profit Performance Dashboard | Analyze sales, profitability & growth trends | Power BI, SQL, Excel | [Walmart Store Sales Analytics](https://github.com/osaaghimien/OsaAnalyticsPortfolio/tree/main/Walmart%20Sales%20Analytics) |
+
 
 
 Each project includes business context, KPIs, data model, insights, and dashboard visuals.
